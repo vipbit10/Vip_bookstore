@@ -1,99 +1,187 @@
-[{
-        "id": 1,
-        "name": "Story Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 0,
-        "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
-    },
-
+[
     {
-        "id": 2,
-        "name": "Story Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 0,
-        "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 1,
+      "name": "The Great Gatsby",
+      "price": 1999,
+      "title": "F. Scott Fitzgerald",
+      "category": "Literature",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     },
-
     {
-        "id": 3,
-        "name": "Music Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 100,
-        "category": "Song",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 2,
+      "name": "1984",
+      "price": 1249,
+      "title": "George Orwell",
+      "category": "Dystopian- Fiction",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     },
-
     {
-        "id": 4,
-        "name": "Story Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 0,
-        "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 3,
+      "name": "Five Point Someone",
+      "price": 1799,
+      "title": "Chetan Bhagat",
+      "category": "Humour",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     },
-
     {
-        "id": 5,
-        "name": "Food Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 200,
-        "category": "Food",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 4,
+      "name": "Harry Potter and the Philosopher's Stone",
+      "price": 1499,
+      "title": "J K Rowling",
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     },
-
     {
-        "id": 6,
-        "name": "Story Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 0,
-        "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 5,
+      "name": "Harry Potter and the Chamber of Secrets",
+      "price": 1499,
+      "title": "J K Rowling",
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     },
-
     {
-        "id": 7,
-        "name": "Story Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 0,
-        "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 6,
+      "name": "Harry Potter and the Prisoner of Azkaban",
+      "price": 1699,
+      "title": "J K Rowling",
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     },
-
     {
-        "id": 8,
-        "name": "Sports Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 50,
-        "category": "Sports",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 7,
+      "name": "Harry Potter and the Goblet of Fire",
+      "price": 2099,
+      "title": "J K Rowling",
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     },
-
     {
-        "id": 9,
-        "name": "Story Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 0,
-        "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 8,
+      "name": "Harry Potter and the Order of Phoneix",
+      "price": 2199,
+      "title": "J K Rowling",
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     },
-
     {
-        "id": 10,
-        "name": "Comedy Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 20,
-        "category": "Entainment",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 9,
+      "name": "Harry Potter and the Half-Blood Prince",
+      "price": 1999,
+      "title": "J K Rowling",
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     },
-
     {
-        "id": 11,
-        "name": "Story Book",
-        "title": "Lorem, ipsum dolor sit amet consectetur adipisicing elit.",
-        "price": 0,
-        "category": "Free",
-        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1710521474~exp=1710525074~hmac=c46c84fc93893df57bae823769fac9b4f2f6144b930b59d2a848ab55d9f72b37&w=740"
+      "id": 10,
+      "name": "Harry Potter and the Deathly Hallows",
+      "price": 2999,
+      "title": "J K Rowling",
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 11,
+      "name": "Harry Potter and the Cursed Child",
+      "price": 3999,
+      "title": "J K Rowling",
+      "category": "Fantasy",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 12,
+      "name": "2 States: The Story of My Marriage",
+      "price": 1699,
+      "title": "Chetan Bhagat",
+      "category": "Romance",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 13,
+      "name": "The Road",
+      "price": 1299,
+      "title": "Cormac Mc Carthy",
+      "category": "Fiction",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 14,
+      "name": "Wuthering Heights",
+      "price": 899,
+      "title": "Emily Brontë",
+      "category": "Tragedy",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 15,
+      "name": "The Alchemist",
+      "price": 999,
+      "title": "Paulo Coelho",
+      "category": "Fiction",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 16,
+      "name": "Book",
+      "price": 0,
+      "title": "XXXXX",
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 17,
+      "name": "Book",
+      "price": 0,
+      "title": "XXXXX",
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 18,
+      "name": "Book",
+      "price": 0,
+      "title": "XXXXX",
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 19,
+      "name": "Book",
+      "price": 0,
+      "title": "XXXXX",
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 20,
+      "name": "Book",
+      "price": 0,
+      "title": "XXXXX",
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 21,
+      "name": "Book",
+      "price": 0,
+      "title": "XXXXX",
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 22,
+      "name": "Book",
+      "price": 0,
+      "title": "XXXXX",
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
+    },
+    {
+      "id": 23,
+      "name": "Book",
+      "price": 0,
+      "title": "XXXXX",
+      "category": "Free",
+      "image": "https://img.freepik.com/free-photo/open-book_23-2147690478.jpg?size=626&ext=jpg&ga=GA1.1.952950543.1706020524&semt=sph"
     }
-]
+  ]
+  

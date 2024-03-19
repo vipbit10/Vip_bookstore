@@ -1,0 +1,11 @@
+.mt-12.grid {
+    gap: 1rem; /* Adjust the gap between cards as needed */
+  }
+  
+  /* Ensure all grid items (cards) take up equal space */
+  .mt-12.grid > div {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%; /* Ensures all cards take full height of the grid cell */
+  }

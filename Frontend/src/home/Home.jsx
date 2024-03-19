@@ -9,7 +9,9 @@ function Home() {
     <>
       <Navbar />
       <Banner />
+      <br/>
       <Freebook />
+      <br/>
       <Footer />
     </>
   );
