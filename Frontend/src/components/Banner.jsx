@@ -28,7 +28,11 @@ function Banner() {
               <input type="text" className="grow" placeholder="Field of Interest" />
             </label>
           </div>
+<<<<<<< HEAD
           <button className="btn mt-6 btn-secondary"><a href="/course">Get Started</a></button>
+=======
+          <button className="btn mt-6 btn-secondary">Get Started</button>
+>>>>>>> c15737e92cf5cea8e0c60c08c172c415954b2d74
         </div>
         <div className=" order-1 w-full mt-20 md:w-1/2">
           <img
