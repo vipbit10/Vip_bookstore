@@ -33,11 +33,7 @@ function Course() {
             </button>
           </Link>
         </div>
-<<<<<<< HEAD
         <div className="mt-12 grid grid-cols-1 md:grid-cols-3 height: '100%' width: '250px' height: '350px' ">
-=======
-        <div className="mt-12 grid grid-cols-1 md:grid-cols-4">
->>>>>>> c15737e92cf5cea8e0c60c08c172c415954b2d74
           {book.map((item) => (
             <Cards key={item.id} item={item} />
           ))}

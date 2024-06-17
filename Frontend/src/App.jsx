@@ -8,8 +8,6 @@ import { Toaster } from "react-hot-toast";
 import { useAuth } from "./context/AuthProvider";
 
 
-import { Toaster } from "react-hot-toast";
-import { useAuth } from "./context/AuthProvider";
 
 function App() {
   const [authUser, setAuthUser] = useAuth();
